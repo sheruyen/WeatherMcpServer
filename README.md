@@ -26,8 +26,7 @@
 - VS Code with GitHub Copilot extension
 - OpenWeather API key environment variable set up
 
-To test this MCP server from source code (locally):
-**Steps:**
+Steps to test this MCP server from source code (locally):
 
 1. **Set an environment variable for OpenWeatherMap API key**
 
